@@ -10,9 +10,9 @@ Ever get frustrated when you successfully cuff a D-Boi, only for a trigger-happy
 
 ### Features
 
-*   ** Cuffed Player Protection:** Cuffed players cannot be damaged by any player other than their original cuffer. This prevents kill-stealing and encourages more strategic gameplay.
-*   ** The Cuffer is King:** The player who applies the handcuffs is the only one (besides SCPs) who can harm the cuffed individual. This gives the cuffer full control over their detainee.
-*   ** Smart Notifications:** Stay informed! The plugin provides customizable on-screen hints to both the original cuffer and the cuffed player if someone else removes the cuffs.
+*   **Cuffed Player Protection:** Cuffed players cannot be damaged by any player other than their original cuffer. This prevents kill-stealing and encourages more strategic gameplay.
+*   **The Cuffer is King:** The player who applies the handcuffs is the only one (besides SCPs) who can harm the cuffed individual. This gives the cuffer full control over their detainee.
+*   **Smart Notifications:** Stay informed! The plugin provides customizable on-screen hints to both the original cuffer and the cuffed player if someone else removes the cuffs.
     *   The **original cuffer** is alerted when someone else frees their captive.
     *   The **cuffed player** is notified who set them free.
 *   **CLEANUP:** The plugin automatically handles clearing its data on player death and at the end of each round to ensure smooth performance.
